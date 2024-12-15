@@ -4,7 +4,7 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的姑娘",  // 同上...
+        "心爱的小雪",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
         "第一个生日！",
@@ -31,7 +31,7 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/7.jpg",
+        "心爱的小雪": "./imgs/7.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
         "第一个生日！": "./imgs/8.jpg",
@@ -44,7 +44,7 @@ var config = {
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气干活": "./imgs/10.jpg",
-        "和想我！": "./imgs/12.jpg",
+        "和想我！": "./imgs/9.jpg",
         "生日快乐~~": "./imgs/11.jpg"
     },
     
